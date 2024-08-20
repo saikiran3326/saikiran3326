@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/user-attachments/assets/ead8f379-0b7f-4bdb-bbbd-c0a785ae0cfd">
+<img width="100%" height="300px" src="https://github.com/user-attachments/assets/ead8f379-0b7f-4bdb-bbbd-c0a785ae0cfd">
 
 <h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
