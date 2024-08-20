@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran3326&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran3326" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiran3326" alt="saikiran3326" /></a> </p>
-
 - 🔭 I’m currently working on **weather prediction**
 
 - 🌱 I’m currently learning **machine learning,data science and full stack web developer**
@@ -30,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikiran3326&show_icons=true&locale=en&layout=compact" alt="saikiran3326" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikiran3326&show_icons=true&locale=en" alt="saikiran3326" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran3326&" alt="saikiran3326" /></p>
