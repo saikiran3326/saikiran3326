@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="350px" border-radius="50px" src="https://th.bing.com/th?id=OIP.qUzJIjChocSMt46b4Kgw2AAAAA&w=247&h=252&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 - 🔭 I’m currently working on **weather prediction**
 
