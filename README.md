@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
+<img src="![image](https://github.com/user-attachments/assets/8f3fc609-e066-4039-bd6b-55ecd443a4c1)">
+><h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **weather prediction**
