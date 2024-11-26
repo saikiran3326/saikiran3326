@@ -1,4 +1,4 @@
-<img width="100%" height="350px" src="https://cssanimation.io/blog/wp-content/uploads/2023/07/Three-Ways-to-Add-Images-in-GitHub-README-jpg.webp">
+<img width="100%" height="350px" src="https://media1.thehungryjpeg.com/thumbs2/ori_3647191_d6y0xz1ufm5p5hcxb4kh9piposaq5j2g9h33pthh_kindora.jpg">
 
 <h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
