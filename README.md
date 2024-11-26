@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **weather prediction**
 
-- 👨‍💻 All of my projects are available at [basic.html](basic.html)
+- 👨‍💻 All of my projects are available at my website(https://saikiran-alikana-web.netlify.app/)
 
 - 💬 Ask me about **react**
 
