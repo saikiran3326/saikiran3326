@@ -4,23 +4,23 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" width="350px" border-radius="50px" src="https://th.bing.com/th?id=OIP.qUzJIjChocSMt46b4Kgw2AAAAA&w=247&h=252&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
-- 🔭 I’m currently working on **weather prediction**
+- 🔭 I’m currently working on **student information system**
 
 - 🌱 I’m currently learning **machine learning,data science and full stack web developer**
 
-- 👯 I’m looking to collaborate on **weather prediction**
+- 👯 I’m looking to collaborate with **ecommerce platforms**
 
 - 👨‍💻 All of my projects are available at my website(https://saikiran-alikana-web.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **something new**
 
 - 📫 How to reach me **alikanasaikiran91@gmail.com**
 
-- ⚡ Fun fact **so funny**
+- ⚡ Fun fact **don't expect anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alikana-sai-kiran-33357b2a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alikana-sai-kiran-33357b2a7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alikana-sai-kiran-webdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
