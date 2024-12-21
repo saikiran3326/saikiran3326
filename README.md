@@ -1,14 +1,14 @@
 <img width="100%" height="350px" src="https://media1.thehungryjpeg.com/thumbs2/ori_3647191_d6y0xz1ufm5p5hcxb4kh9piposaq5j2g9h33pthh_kindora.jpg">
 
 <h1 align="center">Hi 👋, I'm Alikana Sai Kiran</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" width="350px" border-radius="50px" src="https://th.bing.com/th?id=OIP.qUzJIjChocSMt46b4Kgw2AAAAA&w=247&h=252&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 - 🔭 I’m currently working on **student information system**
 
-- 🌱 I’m currently learning **machine learning,data science and full stack web developer**
+- 🌱 I’m currently learning **cloud computing and nlp and gen-ai**
 
-- 👯 I’m looking to collaborate with **ecommerce platforms**
+- 👯 I’m looking to collaborate with **creative platforms**
 
 - 👨‍💻 All of my projects are available at my website(https://saikiran-alikana-web.netlify.app/)
 
