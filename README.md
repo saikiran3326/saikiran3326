@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **student information system**
 
-- 🌱 I’m currently learning **cloud computing and nlp and gen-ai**
+- 🌱 I’m currently learning **cloud computing and gen-ai**
 
 - 👯 I’m looking to collaborate with **creative platforms**
 
